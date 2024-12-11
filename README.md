@@ -1,4 +1,4 @@
-##Color Namer
+## Color Namer
 
 Color Namer is a small, fun macOS app that takes an RGB or HEX color value and tells you the name of the color. It's a simple and delightful tool for developers, designers, or anyone curious about color names.
 
